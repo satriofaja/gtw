@@ -1,0 +1,23 @@
+<!DOCTYPE html><html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Login</title>
+    <script>
+        function cekPassword() {
+            var passwordBenar = "haha"; // Ubah password sesuai keinginan
+            var inputPassword = document.getElementById("password").value;if (inputPassword === passwordBenar) {
+            window.location.href = ".html"; // Halaman jika password benar
+        } else {
+            window.location.href = "gtw.html"; // Halaman jika password salah
+        }
+    }
+</script>
+
+</head>
+<body>
+    <h2>Masukkan Password</h2>
+    <input type="password" id="password" placeholder="Masukkan password">
+    <button onclick="cekPassword()">Masuk</button>
+</body>
+</html>
