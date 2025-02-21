@@ -1,0 +1,36 @@
+{
+    "__meta__": {
+        "about": "HTTPie session file",
+        "help": "https://httpie.io/docs#sessions",
+        "httpie": "3.2.4"
+    },
+    "auth": {
+        "password": null,
+        "type": null,
+        "username": null
+    },
+    "cookies": [
+        {
+            "domain": "kiospay.id",
+            "expires": 1739939421,
+            "name": "sid",
+            "path": "/",
+            "secure": false,
+            "value": "3ujnftt70ae8o11suc127hi39aq4tcsj"
+        }
+    ],
+    "headers": [
+        {
+            "name": "User-Agent",
+            "value": "okhttp/4.12.0"
+        },
+        {
+            "name": "Host",
+            "value": "kiospay.id"
+        },
+        {
+            "name": "Accept-Encoding",
+            "value": "gzip, deflate, br"
+        }
+    ]
+}

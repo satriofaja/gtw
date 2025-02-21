@@ -1,0 +1,53 @@
+{
+    "__meta__": {
+        "about": "xh session file",
+        "xh": "0.23.1"
+    },
+    "auth": {
+        "type": null,
+        "raw_auth": null
+    },
+    "cookies": [
+        {
+            "name": "_abck",
+            "value": "55DA1194ACCA701EA5F9162378772846~-1~YAAQbzJGykVCUxKVAQAAYPUKHA3G8e+ZLuaYYklEmMjmJs/Yn2QXwoQd6iBSDoQ49PLBu7snaJ+HZDWxBeIUGmLw6bFPKqnfFejU2y6UY+4/JYTQHM+6FCYtrGndj+wh7UuiqphMFGeG2hFeFf3IDezvfK8T6iFt1YR4O6+TEGms0t1UDmpY0jXKXL8inDcW4icVKO8PtDTxhnMn8NGyKDSSEx19W7cczlTEdEMJCQYQQTUU4ZgI9vRVZD0K0vNpTOD2yGqAbGPcWQzd3riIPW7AQ3ncq7ntu1NZr09gHQpjM7qKvRk9xfGD2G/Tb16licEHMkFSEEukU2RxK2YVOHHhraGuTRHjBMQ4/idRiaYQwKFX9vdcDQBvu9Ts8zkJGHT9OJqrxndwR2YuvLm1ceTIXUVEfEr0pyqlHG/BfZ2p4TTwzqaIGEP5u2zahKo=~-1~-1~-1",
+            "expires": 1771468235,
+            "path": "/",
+            "secure": true,
+            "domain": "tokopedia.com"
+        },
+        {
+            "name": "bm_sz",
+            "value": "E8EAF9836F87B588EB43F6190CB57BC8~YAAQbzJGykZCUxKVAQAAYPUKHBpzgYJ9frcmPgK24a667wDiYi3cr7/G32IGjL8GUYe3/yE+96XX88jcjiKU6+ASQf7EgkI1QXFDajfir37m99jxCWgWltCpodmcw7KjtO1jqozzvFfuhBngHQUgtFJhSbbWSKP03uwn+x1bL/JGURmaZmBgMee1z3gyEOCYciAeLNpn2NKPOzj/srdr2OPiB+VbiKJdTQsvYVhPmWDm3xAIlxKXyvZdEgXEWmbsNW7TPddhD6nnxv47Nfz5pwDdFoNvyii/EbNqPXRenEA2cZzqZIp9E2tIydQ6zEdIsQj44rj3F9pogmX8O0YgJYcZPJFwq8Gqc16JvuccPoyezxQfbCc6wtI=~3618613~4473139",
+            "expires": 1739946635,
+            "path": "/",
+            "domain": "tokopedia.com"
+        }
+    ],
+    "headers": [
+        {
+            "name": "host",
+            "value": " accounts.tokopedia.com"
+        },
+        {
+            "name": "user-agent",
+            "value": " Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Mobile Safari/537.36"
+        },
+        {
+            "name": "accept",
+            "value": " application/json, text/javascript, */*; q=0.01"
+        },
+        {
+            "name": "connection",
+            "value": " close"
+        },
+        {
+            "name": "origin",
+            "value": " https://accounts.tokopedia.com"
+        },
+        {
+            "name": "x-requested-with",
+            "value": " XMLHttpRequest"
+        }
+    ]
+}

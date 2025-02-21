@@ -1,0 +1,35 @@
+{
+    "__meta__": {
+        "about": "xh session file",
+        "xh": "0.23.1"
+    },
+    "auth": {
+        "type": null,
+        "raw_auth": null
+    },
+    "cookies": [
+        {
+            "name": "mySchool",
+            "value": "0j3cejead75kp9la9393b5i95h",
+            "domain": "registrasi.assyifa.sch.id"
+        }
+    ],
+    "headers": [
+        {
+            "name": "host",
+            "value": " registrasi.assyifa.sch.id"
+        },
+        {
+            "name": "user-agent",
+            "value": " Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Mobile Safari/537.36"
+        },
+        {
+            "name": "accept",
+            "value": " */*"
+        },
+        {
+            "name": "connection",
+            "value": " close"
+        }
+    ]
+}
